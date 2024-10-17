@@ -13,4 +13,4 @@ Sou estudante de Engenharia de Produção e Análise de Dados
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Georgettig&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Georgettig&repo=modelos_machine_learning&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Georgettig&repo=Analise-de-Dadosg&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
