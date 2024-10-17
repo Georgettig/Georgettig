@@ -1,5 +1,6 @@
 Olá, meu nome é Guilherme.
-Sou estudante de Engenharia de Produção e Análise de Dados
+Sou estudante de Engenharia de Produção da UNESP.
+Trabalho com Análise e Visualização de Dados, utilizando a ferramenta Jupyer Notebook e a linguagem Python de programação.
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
