@@ -1,5 +1,7 @@
-Olá, meu nome é Guilherme.\n
+Olá, meu nome é Guilherme.
+
 Sou estudante de Engenharia de Produção da UNESP.
+
 Trabalho com Análise e Visualização de Dados, utilizando a ferramenta Jupyer Notebook e a linguagem Python de programação.
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
