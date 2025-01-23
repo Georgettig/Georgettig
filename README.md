@@ -1,8 +1,17 @@
-Olá, meu nome é Guilherme.
+# Olá! 👋
 
-Sou estudante de Engenharia de Produção da UNESP.
+Sou estudante de Engenharia de Produção da UNESP apaixonado por programação e análise de dados. Aqui estão alguns dos meus projetos e contribuições.
 
-Trabalho com Análise e Visualização de Dados, utilizando a ferramenta Jupyer Notebook e a linguagem Python de programação.
+## 🚀 Habilidades
+- Linguagens: Python, SQL 
+- Ferramentas: Pandas, NumPy, Matplotlib, Power BI
+- Áreas de interesse: Ciência de Dados, Engenharia de Dados
+
+## 📂 Projetos
+- [Previsão de Séries Temporais com Prophet](https://github.com/Georgettig/projeto-prophet)
+- [Análise de Dados Financeiros](https://github.com/Georgettig/analise-financeira)
+
+Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-georgetti/).
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
