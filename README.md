@@ -21,9 +21,5 @@ Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-geor
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Georgettig&show_icons=true&theme=merko)](https://github.com/Georgettig/github-readme-stats)
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Georgettig&repo=Analise-de-Dados&theme=merko)](https://github.com/Georgettig/Analise-de-Dados))
 
