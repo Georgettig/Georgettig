@@ -8,7 +8,7 @@ Sou estudante de Engenharia de Produção da UNESP apaixonado por programação 
 - Áreas de interesse: Ciência de Dados, Engenharia de Dados
 
 ## 📂 Projetos
-- [Previsão de Séries Temporais com Prophet]([https://github.com/Georgettig/Previs-o-de-S-ries-Temporais---Microsoft)
+- [Previsão de Séries Temporais com Prophet]([https://github.com/Georgettig/Previs-o-de-S-ries-Temporais---Microsoft])
 
 Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-georgetti/).
 
