@@ -3,7 +3,7 @@
 Sou estudante de Engenharia de Produção da UNESP apaixonado por programação e análise de dados. Aqui estão alguns dos meus projetos e contribuições.
 
 ## 🚀 Habilidades
-- Linguagens: Python, SQL 
+- Linguagens: Python 
 - Ferramentas: Pandas, NumPy, Matplotlib, Power BI
 - Áreas de interesse: Ciência de Dados, Engenharia de Dados
 
