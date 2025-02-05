@@ -3,9 +3,9 @@
 Sou estudante de Engenharia de Produção da UNESP apaixonado por programação e análise de dados. Aqui estão alguns dos meus projetos e contribuições.
 
 ## 🚀 Habilidades
-- Linguagens: Python 
-- Ferramentas: Pandas, NumPy, Matplotlib, Power BI
-- Áreas de interesse: Ciência de Dados, Engenharia de Dados
+- Linguagens: Python.
+- Ferramentas: Pandas, NumPy, Matplotlib, Power BI.
+- Áreas de interesse: Análise de Dados, Ciência de Dados, Business Intelligence.
 
 ## 📂 Projetos
 - [Análise e Previsão do PIB - Banco Mundial de Dados](https://github.com/Georgettig/An-lise-e-Previs-o-do-PIB---Brasil-EUA-e-China)
