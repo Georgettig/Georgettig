@@ -8,6 +8,8 @@ Sou estudante de Engenharia de Produção da UNESP apaixonado por programação 
 - Áreas de interesse: Análise de Dados, Ciência de Dados, Business Intelligence, Desenvolvimento Back-End.
 
 ## 📂 Projetos
+- [Dashboard de Contratos - Análise de Dados](https://github.com/Georgettig/streamlit-dashboard-contratos)
+- [Dashboard de Vendas - Análise de Dados](https://github.com/Georgettig/streamlit-dashboard-projeto)
 - [Análise e Previsão do PIB - Banco Mundial de Dados](https://github.com/Georgettig/An-lise-e-Previs-o-do-PIB---Brasil-EUA-e-China)
 - [Análise e Previsão do Valor do Dolar ao Longo dos Anos](https://github.com/Georgettig/Previs-o-Dolar)
 - [Análise e Previsão de Risco de Crédito](https://github.com/Georgettig/Analise-de-Risco-Credito)
