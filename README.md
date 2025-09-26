@@ -19,7 +19,6 @@
 
 Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-georgetti/).
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ## 🔧 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
