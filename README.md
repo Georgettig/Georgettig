@@ -10,11 +10,7 @@ Sou estudante de Engenharia de Produção da UNESP apaixonado por programação 
 ## 📂 Projetos
 - [Dashboard de Contratos - Análise de Dados](https://github.com/Georgettig/streamlit-dashboard-contratos)
 - [Dashboard de Vendas - Análise de Dados](https://github.com/Georgettig/streamlit-dashboard-projeto)
-- [Análise e Previsão do PIB - Banco Mundial de Dados](https://github.com/Georgettig/An-lise-e-Previs-o-do-PIB---Brasil-EUA-e-China)
-- [Análise e Previsão do Valor do Dolar ao Longo dos Anos](https://github.com/Georgettig/Previs-o-Dolar)
-- [Análise e Previsão de Risco de Crédito](https://github.com/Georgettig/Analise-de-Risco-Credito)
-- [Análise de Performance dos Estudantes em Prova Seriada](https://github.com/Georgettig/Analise-de-Performance-dos-Estudantes)
-- [Previsão de Séries Temporais com Prophet](https://github.com/Georgettig/Previs-o-de-S-ries-Temporais---Microsoft)
+- [API REST de Eventos - Django Rest Framework](https://github.com/Georgettig/Projeto-Django-Rest-Framework-Eventos)
 
 Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-georgetti/).
 
