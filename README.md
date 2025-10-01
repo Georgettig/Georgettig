@@ -15,7 +15,8 @@
 ## 📂 Projetos em Destaque
 - [Dashboard de Contratos - Streamlit](https://github.com/Georgettig/streamlit-dashboard-contratos)
 - [Dashboard de Vendas - Streamlit](https://github.com/Georgettig/streamlit-dashboard-projeto)
-- [API REST de Eventos - Django Rest Framework](https://github.com/Georgettig/Projeto-Django-Rest-Framework-Eventos)
+- [API REST de Eventos - Django Rest Framework + SQLite](https://github.com/Georgettig/Projeto-Django-Rest-Framework-Eventos)
+- [API REST de Jogadores - FastAPI + MongoDB](https://github.com/Georgettig/FastAPI-jogadores)
 
 Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-georgetti/).
 
