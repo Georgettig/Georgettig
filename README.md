@@ -13,8 +13,8 @@
 - Áreas de interesse: Análise de Dados, Ciência de Dados, Business Intelligence, Desenvolvimento Back-End.
 
 ## 📂 Projetos em Destaque
-- [Dashboard de Contratos - Streamlit](https://github.com/Georgettig/streamlit-dashboard-contratos)
-- [Dashboard de Vendas - Streamlit](https://github.com/Georgettig/streamlit-dashboard-projeto)
+- [Dashboard de Contratos - Streamlit + Plotly](https://github.com/Georgettig/streamlit-dashboard-contratos)
+- [Dashboard de Vendas - Streamlit + Plotly](https://github.com/Georgettig/streamlit-dashboard-projeto)
 - [API REST de Eventos - Django Rest Framework + SQLite](https://github.com/Georgettig/Projeto-Django-Rest-Framework-Eventos)
 - [API REST de Jogadores - FastAPI + MongoDB](https://github.com/Georgettig/FastAPI-jogadores)
 
