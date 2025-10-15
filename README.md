@@ -5,7 +5,7 @@
 - Busco aplicar tecnologia, programação e dados em meus projetos para melhorar **eficiência operacional** e auxiliar a **tomada de decisão** 
 
 ## 🚀 Habilidades
-- Linguagens: Python, SQL e Java.
+- Linguagens: Python e SQL.
 - Frameworks: Django Rest Framework, FastAPI e Streamlit.
 - Banco de Dados: MySQL, SQLite, PostgreSQL e MongoDB. 
 - Ferramentas: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Dash e Scikit-Learn.
@@ -24,7 +24,6 @@ Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-geor
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
