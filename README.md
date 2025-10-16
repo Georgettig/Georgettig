@@ -1,6 +1,6 @@
 # Olá, eu sou o Guilherme Georgetti!👋
 
-- Sou estudante do curso de **Engenharia de Produção** na **UNESP**
+- Sou **Engenheiro de Produção** em formação pela **UNESP**
 - Atuo na área de **análise de dados**, **automação de processos** e **desenvolvimento de soluções em Python**
 - Busco aplicar tecnologia, programação e dados em meus projetos para melhorar **eficiência operacional** e auxiliar a **tomada de decisão** 
 
