@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Georgetti!👋
+# Olá, meu nome é Guilherme Georgetti!👋
 
 - Sou **Engenheiro de Produção** em formação pela **UNESP**
 - Atuo na área de **análise de dados**, **automação de processos** e **desenvolvimento de soluções em Python**
