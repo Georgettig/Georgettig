@@ -6,7 +6,7 @@
 
 ## 🚀 Habilidades
 - Linguagens: Python e SQL.
-- Frameworks: Django Rest Framework, FastAPI e Streamlit.
+- Frameworks: Django, FastAPI e Streamlit.
 - Banco de Dados: MySQL, SQLite, PostgreSQL e MongoDB. 
 - Ferramentas: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Dash e Scikit-Learn.
 - Outros: Power BI, AWS e Git/GitHub.
