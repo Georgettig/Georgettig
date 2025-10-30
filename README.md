@@ -18,6 +18,7 @@
 - [API REST de Eventos - Django Rest Framework + SQLite](https://github.com/Georgettig/Projeto-Django-Rest-Framework-Eventos)
 - [API REST de Jogadores - FastAPI + MongoDB](https://github.com/Georgettig/FastAPI-jogadores)
 - [Modelo Preditivo de Aprovação de Empréstimo Bancário - Streamlit + Machine Learning](https://github.com/Georgettig/streamlit-simulacao-emprestimo)
+- [API REST de Indicadores - FastAPI](https://github.com/Georgettig/fastapi-indicadores)
 
 Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-georgetti/).
 
